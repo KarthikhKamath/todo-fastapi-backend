@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+env/
+
+# IDE or editor files
+.vscode/
+.idea/
+*.iml
+*.pyc
+
+# Dependency management files
+requirements.txt
+poetry.lock
+
+# Log files and cache directories
+*.log
+__pycache__/
+
+# Environment configuration files
+.env
+
+# Generated files
+migrations/
+*.pyc
+
+# User-specific files
+*~
+.DS_Store
