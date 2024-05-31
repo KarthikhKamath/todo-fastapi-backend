@@ -9,7 +9,6 @@ env/
 *.pyc
 
 # Dependency management files
-requirements.txt
 poetry.lock
 
 # Log files and cache directories
